@@ -7,7 +7,7 @@ Website springmc.xyz(Building 建设中)
 ## Personal Profile 个人简介
 Current captain of the Supercomputing and Parallel Computing Team at Southwest Petroleum University. Proficient in high-performance computing (HPC) and heterogeneous programming acceleration with competition-proven expertise. Has achieved accolades in multiple domestic and international supercomputing competitions. Possesses programming experience with China-developed architectures including Sunway processors, DCUs, and other domestic CPU/GPU platforms. Demonstrated leadership in team coordination and collaborative problem-solving through repeated captaincy roles during competition campaigns.
 
-西南石油大学超算与并行计算团队现队长。有高性能计算（HPC），异构编程加速经验。多次参加国内外超算竞赛，并取得成绩。有使用国产 CPU/GPU 编程经验（神威， DCU，……）。多次以队长身份带队参赛，具有协作解决问题能力。
+西南石油大学超算与并行计算团队前队长。有高性能计算（HPC），异构编程加速经验。多次参加国内外超算竞赛，并取得成绩。有使用国产 CPU/GPU 编程经验（神威， DCU，……）。多次以队长身份带队参赛，具有协作解决问题能力。
 
 ## Technology stack 技术栈
 
