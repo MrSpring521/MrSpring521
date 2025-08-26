@@ -47,9 +47,7 @@ participated in the ASC25(ASC Student Supercomputer Challenge) as the team capta
 ## Research Project 科研项目
 基于国产 GPU 三维运动追踪算法优化  
 ## Educational experience 教育经历
-School of Computer Science and Software Engineering-Computer Class-SouthWest Petroleum University  
 School of Computer Science and Software Engineering-Data Science and Big Data Technology-SouthWest Petroleum University  
 
 
-计算机与软件学院-计算机类 西南石油大学  
 计算机与软件学院-数据科学与大数据技术 西南石油大学  
